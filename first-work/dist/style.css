@@ -1,0 +1,48 @@
+body {
+  background-color: #fcba03 ;
+  margin:0
+}
+Header {
+  height: 50px;
+  background :green 
+}
+h1{
+  color : #292723  ;   
+  Brackground : Red ;
+  height : 30vh; 
+  place-item : center ; 
+  Text-margin : top ;
+  text-align : center ;
+  font-size : 50px ;
+  }
+h2 {
+  height: 50px ;
+  background : red ;
+color : Black ;
+  font size : 40px;
+  box-sizing : border-box ;
+}
+img{
+  height: 150px;
+ dispaly : block ;
+    margin-top:
+    margin-left : 10px;
+}
+
+main{
+  height:600px;
+  bacground : #cbd4cd;
+  
+}
+.paragraph {
+  display : grid;
+  color: green; 
+  Background color: gray ;
+  font-size: 20px;
+  text-align: left
+}
+Footer {
+ height :200px
+   bacground : #0a4ccf;
+  font-size-normal:16px 
+  }
